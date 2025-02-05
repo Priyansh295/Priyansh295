@@ -9,7 +9,7 @@ CSE(AIML) 3rd-year student passionate about data analytics and machine learning.
 
 - 🌱 I’m currently learning *ML, Data Analysis,*
 
-- 📫 How to reach me *yashgawhale004@gmail.com*
+- 📫 How to reach me *priyanshgupta412@gmail.com*
 
 
 <h3 align="left">Connect with me:</h3>
