@@ -102,17 +102,19 @@ class Priyansh:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyansh295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+<!-- GitHub Stats + Streak -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyansh295&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
 
 </div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh295&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
+<!-- Language Stats (STABLE) -->
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyansh295&theme=tokyonight" />
 &nbsp;
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=priyansh295&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=priyansh295&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" />
 
 </div>
 
