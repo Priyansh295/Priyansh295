@@ -105,7 +105,7 @@ class Priyansh:
 <!-- Row 1: Stats + Streak -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=priyansh295&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+
 
 </div>
 
