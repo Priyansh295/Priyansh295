@@ -103,16 +103,19 @@ class Priyansh:
 <div align="center">
 
 <!-- Row 1: Stats + Streak -->
-
-
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyansh295&theme=tokyonight" />
+&nbsp;
 <img height="180" src="https://streak-stats.demolab.com?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- Row 2: Language Chart ONLY -->
+<!-- Row 2: Productive Time + Top Languages -->
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyansh295&theme=tokyonight&utcOffset=5.5" />
+&nbsp;
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyansh295&theme=tokyonight" />
 
 </div>
@@ -121,7 +124,7 @@ class Priyansh:
 
 <div align="center">
 
-<!-- Row 3: Trophies ONLY -->
+<!-- Row 3: Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=priyansh295&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" />
 
 </div>
