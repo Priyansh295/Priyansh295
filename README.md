@@ -101,13 +101,19 @@ class Priyansh:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansh295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="180" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyansh295&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=priyansh295&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh295&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/?username=priyansh295&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" height="180" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh295&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
+&nbsp;
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=priyansh295&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -115,8 +121,12 @@ class Priyansh:
 ## 🐍 Contribution Graph
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/priyansh295/priyansh295/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansh295/priyansh295/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansh295/priyansh295/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/priyansh295/priyansh295/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
